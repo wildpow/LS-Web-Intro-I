@@ -1,0 +1,35 @@
+header {
+  width: 100%;
+  min-height: 200px;
+  background: red;
+  display:block;
+}
+
+.left_side {
+  width: 20%;
+  height: 800px;
+  background-color: yellow;
+  display: inline-block;
+  position: relative;
+}
+.middle {
+  width: 60%;
+  height: 800px;
+  background: blue;
+  display:inline-block;
+  position: relative;
+}
+.right_side {
+  width: 20%;
+  height: 800px;
+  background-color: yellow;
+  display:inline-block;
+  position: relative;
+}
+footer {
+  width: 100%;
+  min-height: 200px;
+  background-color: green;
+  display:block;
+
+}
