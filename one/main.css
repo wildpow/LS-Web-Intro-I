@@ -1,35 +1,23 @@
 header {
   width: 100%;
-  min-height: 200px;
+  height: 100px;
   background: red;
-  display:block;
+}
+main {
+  width: 100%;
+  background: yellow;
 }
 
-.left_side {
-  width: 20%;
-  height: 800px;
-  background-color: yellow;
-  display: inline-block;
-  position: relative;
-}
 .middle {
-  width: 60%;
-  height: 800px;
+  width: 70%;
   background: blue;
-  display:inline-block;
-  position: relative;
-}
-.right_side {
-  width: 20%;
-  height: 800px;
-  background-color: yellow;
-  display:inline-block;
-  position: relative;
+  height: 600px;
+  margin: auto;
 }
 footer {
-  width: 100%;
-  min-height: 200px;
-  background-color: green;
-  display:block;
+  width: 70%;
+  background: green;
+  margin: auto;
+  height: 100px;
 
 }
