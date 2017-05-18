@@ -18,11 +18,27 @@ main {
   background: blue;
   margin: auto;
   margin-bottom: 6%;
-
   width: 60%;
   height: 170px;
   position: relative;
   top: 50px;
+}
+.green {
+  width: 170px;
+  height: 120px;
+  background: green;
+  position: relative;
+  left: 35px;
+  top: 17px;
+  display: inline-block;
 
-
+}
+.yellow{
+  width: 85px;
+  background: yellow;
+  height: 85px;
+  position: relative;
+  left: 25px;
+  display: inline-block;
+  bottom:  17px;
 }
